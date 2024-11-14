@@ -8581,7 +8581,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
-hash = "7a1666279324647ff53b69bfcfe136a456b2885419cd0688c0169466613c5328"
+hash = "1a9ac4888b6c071009a64b9e472716b937bda6545e334f3c3ba51b751bf1c7c3"
 metafile = true
 
 [[files]]
@@ -8777,6 +8777,11 @@ metafile = true
 [[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "3be531e0db7c9154f5916b0aaaf964e1d65d625ea8992118cd6b4b1be949ae4a"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "b91695a9291401b4e09a28d7365e26513e5a2359b5edd4def897e673cd582f6d"
 metafile = true
 
 [[files]]
