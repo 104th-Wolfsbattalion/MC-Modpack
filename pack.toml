@@ -1,0 +1,13 @@
+name = "104th Wolfsbattalion MC"
+author = "Wolfsbattalion Team"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "25cbfc3a78ab6070dade3c78737e161f30638719ca8224c8f0a26b71ff08ba80"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.20.1"
