@@ -8885,6 +8885,11 @@ hash = "968bd6112b94eb120e1ae7a157cda39b74c46d2d078b096521d8b4d5bbb332ef"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+metafile = true
+
+[[files]]
 file = "mods/cadmus.pw.toml"
 hash = "768b358f580c122d9cdf4164e5137704504451d6efa5c794c5220d12f12f5d33"
 metafile = true
@@ -8942,6 +8947,11 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
 hash = "65c48051cd4aedfa5109b066d81ef108bb48b675bc79a814db91327ad5b5b749"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "806f61b2d88b367c7ae70c9c8fdc5c85f7440d7f5fe896d82bb8036fbe4bf6da"
 metafile = true
 
 [[files]]
@@ -9142,6 +9152,11 @@ metafile = true
 [[files]]
 file = "mods/distracting-trims.pw.toml"
 hash = "062a1dcac94a689d9668267e60355bf1b5b354c57df3dc0cd74325c9f8a3665d"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "d9bf0020f39ea4cea9c1350fdeefd5c651797ffaa01873ad91f6162fb0e210d4"
 metafile = true
 
 [[files]]
