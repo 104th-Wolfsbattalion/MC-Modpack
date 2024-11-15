@@ -416,7 +416,7 @@ hash = "e9838cc6c67a746008e2c8bc88577be4c350d4f990ee5ca4861f07bce76e36ea"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
-hash = "007255a2a31268e28ea3e54ea60799eb5c100dd74767296d8b308b62bb814573"
+hash = "d6ec9a2f8ff123940e8561eb641dfe6c3357fe9946800740c6422890887d6b81"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.json"
