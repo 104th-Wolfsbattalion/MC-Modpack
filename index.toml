@@ -2250,6 +2250,11 @@ hash = "a3e687167945b36dc8cd67f8bb4fb487f95bfd43ef4b332af0cd32f720e2142c"
 metafile = true
 
 [[files]]
+file = "mods/xl-packets-fabric.pw.toml"
+hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api-fabric.pw.toml"
 hash = "238ac28ffc1a311a782fa569021f3cfc93c2d5ed7773b3273fdef736b80d9fb3"
 metafile = true
