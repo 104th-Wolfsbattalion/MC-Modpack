@@ -11,9 +11,9 @@ disableMigration = false
 	copycat_vertical_slice = true
 	#.
 	copycat_vertical_stairs = true
+	copycat_shaft = true
 	copycat_fence = true
 	copycat_stairs = true
-	copycat_shaft = true
 	copycat_block = true
 	copycat_large_cogwheel = true
 	copycat_cogwheel = true
@@ -36,9 +36,9 @@ disableMigration = false
 	copycat_light_weighted_pressure_plate = true
 	copycat_iron_door = true
 	copycat_trapdoor = true
+	copycat_slope_layer = true
 	copycat_board = true
 	copycat_beam = true
-	copycat_slope_layer = true
 	copycat_door = true
 	copycat_slab = true
 #.

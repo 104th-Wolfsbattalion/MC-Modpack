@@ -1,0 +1,13 @@
+name = "Create: Numismatics"
+filename = "CreateNumismatics-1.0.7+fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3808e953de97331bb6fb24d71d7f6a2917e82268"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5868549
+project-id = 889722

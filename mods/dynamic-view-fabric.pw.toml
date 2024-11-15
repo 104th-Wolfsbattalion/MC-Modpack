@@ -1,0 +1,13 @@
+name = "Dynamic View[Fabric]"
+filename = "dynview-fabric-1.20.1-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4563e7f88a17f360445bfe3ada852068dcf0101"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5345882
+project-id = 629392

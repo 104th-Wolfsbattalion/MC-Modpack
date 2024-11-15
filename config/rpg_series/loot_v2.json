@@ -704,7 +704,7 @@
       "bonus_rolls": 0.2,
       "entries": [
         {
-          "id": "#rpg_series:tier_2_weapons",
+          "id": "#rpg_series:tier_4_weapons",
           "weight": 1,
           "enchant": {
             "min_power": 1.0,
@@ -713,7 +713,7 @@
           }
         },
         {
-          "id": "#rpg_series:tier_2_armors",
+          "id": "#rpg_series:tier_3_armors",
           "weight": 1,
           "enchant": {
             "min_power": 1.0,
@@ -722,7 +722,7 @@
           }
         },
         {
-          "id": "#rpg_series:tier_3_accessories",
+          "id": "#rpg_series:tier_4_accessories",
           "weight": 1
         }
       ]

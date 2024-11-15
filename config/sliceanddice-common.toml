@@ -2,6 +2,7 @@
 	consume_tool_durability = true
 	ignore_rotation = false
 [basin_cooking]
+	replace_fluid_containers = true
 	enabled = true
 [sprinkler]
 	#Range: 10 ~ 2048

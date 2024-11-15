@@ -5,7 +5,7 @@
 	#Choose the menu row that the Create config button appears on in the main menu
 	#Set to 0 to disable the button altogether
 	#Range: 0 ~ 4
-	mainMenuConfigButtonRow = 0
+	mainMenuConfigButtonRow = 2
 	#.
 	#Choose the menu row that the Create config button appears on in the in-game menu
 	#Set to 0 to disable the button altogether
