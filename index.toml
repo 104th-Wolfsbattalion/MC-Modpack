@@ -1295,6 +1295,11 @@ hash = "b11eb6375e438f1fbf4fe6245e5500a7e624c83ec06774b5afa99aee1e17ced8"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+metafile = true
+
+[[files]]
 file = "mods/calibrated.pw.toml"
 hash = "d4b95a7c533292451f3c8e415dea3a9157d0a94f59d61b56136f7e14e823bc61"
 metafile = true
@@ -1717,6 +1722,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "f08bf2a517e4fbd48c2f4e8f0a801b992f38aa54f287f9a20d9d88b1e25f62b9"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "93f8eec0fb9b27e8960d60fcf3cdceffc591944f47b1c8c004032eeba5612b95"
 metafile = true
 
 [[files]]
