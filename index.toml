@@ -1615,6 +1615,11 @@ hash = "7d5bfb2d7dea6386110f2f1f364696f43b23afa969be6f41cebafa7e7e992335"
 metafile = true
 
 [[files]]
+file = "mods/forgotten-graves.pw.toml"
+hash = "1216673395245dacb84c4672051168122975be5598c6b316e5503aa2269fe243"
+metafile = true
+
+[[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
@@ -2217,6 +2222,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "1a7064be333ba692416f018acaf03e691f616c63e1eca9814c2c8e8fb4e45221"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
 
 [[files]]
