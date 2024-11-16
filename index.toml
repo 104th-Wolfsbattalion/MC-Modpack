@@ -564,27 +564,27 @@ hash = "03cab8fd91d924d3adaad62706661097c3d8d7bb6ac4f1a58930293c36db4deb"
 
 [[files]]
 file = "config/fancymenu/panoramas/title_screen/panorama/panorama_0.png"
-hash = "ad1e626935eaf9b6d69994422552005961f91aa0d31fe559ba5291e9ab2321f6"
+hash = "67e0e604aa3398ef5c55aa1d5dbb1aebee209cf0b89f16fda579b4268e9eb77d"
 
 [[files]]
 file = "config/fancymenu/panoramas/title_screen/panorama/panorama_1.png"
-hash = "03cab8fd91d924d3adaad62706661097c3d8d7bb6ac4f1a58930293c36db4deb"
+hash = "a212b5b46566b6f4ead03d9d9db985074feaf1d0013e31fac02c81156f67e373"
 
 [[files]]
 file = "config/fancymenu/panoramas/title_screen/panorama/panorama_2.png"
-hash = "668743bdbef6338dd879db7e8417c515e40575aa8efda86144246b3320e5c0cd"
+hash = "1585a45bf2409c74f4bac72606ee2c4489de49275ca8320b91f9317b5ef3aa04"
 
 [[files]]
 file = "config/fancymenu/panoramas/title_screen/panorama/panorama_3.png"
-hash = "78d3fe4f75b9047ccec84eb3830b3d24c49c4d01bc8e66dd328845a7d364b160"
+hash = "ee0612072c05cfe7be00d8f04d4cb08bd88820a91b22ac8cc5933b8baba050d4"
 
 [[files]]
 file = "config/fancymenu/panoramas/title_screen/panorama/panorama_4.png"
-hash = "8093cbcc5b07bc3fcf59a65737137432b49ff46a6efe91059ad3ec4c23ee5049"
+hash = "769bdb372aa77aa3d734222e4efa6363239d9b0927078edab60e9df60eec2ff9"
 
 [[files]]
 file = "config/fancymenu/panoramas/title_screen/panorama/panorama_5.png"
-hash = "fedbb642ac0a559f1e978e622e2d9f3cf81e7ace2eb952de9a0d14701456e2e1"
+hash = "64ddeadf9240d6f60b8bae3d8fec72299adb001687ff79ff859e891b2cb1e6a1"
 
 [[files]]
 file = "config/fancymenu/panoramas/title_screen/properties.txt"
@@ -641,14 +641,6 @@ hash = "284889ebb90d025da4a42c32c3275d5a5877235963561f36e80d8f1ba3fe8e39"
 [[files]]
 file = "config/immersive_paintings.json"
 hash = "65503c4720dd1017227041ee6ce26650a75a123af7331d66c5fac0a2cdace94c"
-
-[[files]]
-file = "config/immersive_weathering-client.json"
-hash = "bde2f311650b6f84b5524a5f74515bc4d431c6f388534f890a0b4df2c5daa4de"
-
-[[files]]
-file = "config/immersive_weathering-common.json"
-hash = "057390659c88f2ee619526dc688d0af39c2c4c3aed5df2b2a32e33b7d9e40e8e"
 
 [[files]]
 file = "config/immersivelanterns-client.toml"
@@ -1535,8 +1527,8 @@ hash = "39b5a8375c756d2ff436829aa67ea45e5447f404e9cb4922095a90cfcffe04ef"
 metafile = true
 
 [[files]]
-file = "mods/dragonloot.pw.toml"
-hash = "6357fceb13c6601bbfa5c30397ae8087a031d0ba7ab966a33e98bc358681eb33"
+file = "mods/doespotatotick.pw.toml"
+hash = "bd4ad03dd9604c4899414d1995dbd8a51c827b82b947add2ae5466fda4cf5f83"
 metafile = true
 
 [[files]]
@@ -1615,21 +1607,6 @@ hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "f9efc3a8b92991d29b7117b9a0d9fd7a3f7d567d0139243f35c6257f56068b75"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons-terralith-compat.pw.toml"
-hash = "781137a2d19be7da0fc9a9f88a36d176fa1d82d3a7873b6dd2b0cd91e78335ec"
-metafile = true
-
-[[files]]
-file = "mods/fabric-seasons.pw.toml"
-hash = "4c8e5444117e7e3104b2da7e72667cd51e61d23903bfab9e48db69cb8ccfd8b3"
-metafile = true
-
-[[files]]
 file = "mods/fabric-waystones.pw.toml"
 hash = "77487ea1ce0155973aeb6bc176a58eb229529c4baa4243b9fa0e7753fd3195af"
 metafile = true
@@ -1647,6 +1624,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "921692165d02804b0cc0aea4f01f124c2a64e27dd870c7429905126dd2ba4f48"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
@@ -1735,8 +1717,8 @@ hash = "2c1bac5d5bc9061449e91525e3564883743273cbe2eade645a2a70e8c38a9927"
 metafile = true
 
 [[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "031ba1bb160d2d42dd8852660503b1d125c74d0ab3ce78012403bb501deca859"
+file = "mods/immediatelyfast.pw.toml"
+hash = "bf40db13794b4204762ce0d24e95dceff163a79959c196486aefb3d9d3296e2f"
 metafile = true
 
 [[files]]
@@ -1757,11 +1739,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "9b65b688f0da3220336794f8fbc00dfa495658d705e391d5b72811abafbeb020"
-metafile = true
-
-[[files]]
-file = "mods/immersive-weathering-fabric.pw.toml"
-hash = "575584600a12bd017ab7287bfe35a234bb3e1dc10d186f90aceac7ec8b88dcf6"
 metafile = true
 
 [[files]]
@@ -1786,7 +1763,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "93f8eec0fb9b27e8960d60fcf3cdceffc591944f47b1c8c004032eeba5612b95"
+hash = "dda0307960ff9b226803f92847f928d85a1d24fa6aa91db33761a03e124edb28"
 metafile = true
 
 [[files]]
@@ -1887,11 +1864,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "709c15cbc208451b7b563ff33b0556f722cb423e65d448b0f1f6209eb10f909b"
-metafile = true
-
-[[files]]
-file = "mods/man-of-many-planes.pw.toml"
-hash = "e0560dd439d799bfd883bf7583ea8b9ad6e4b5340bcbbe991a7566dffd390117"
 metafile = true
 
 [[files]]
@@ -2130,6 +2102,11 @@ hash = "916ce8b1aed05a06e06a52ab6a752d3ec6d53edd264a1a3c70f1ba52deffde30"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "b72f475de698e990b861aff8ad759913b6f063550e6d94cebf0cdd0bf4e0bdbb"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
 hash = "7a44369b75a2bffd2bc47412c5498e004b33e20d6d3a0e7a3c332effbdbba004"
 metafile = true
@@ -2141,7 +2118,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "891d6e300c1c1942fd2d1a83136193f6d1df4ff2a3eb99e2dd91281ed35033de"
+hash = "6a35e1cb7d8a681459740410d033fba0cdcde1fed7e5886985c0412b7bdeb5ee"
 metafile = true
 
 [[files]]
@@ -2287,6 +2264,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "cb780507350eda79869cc18976d04970665ed2f14cddf024c87e09bdfea33b96"
 metafile = true
 
 [[files]]
