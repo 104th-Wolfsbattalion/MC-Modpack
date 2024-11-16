@@ -403,10 +403,6 @@ file = "config/cristellib/minecraftP.json5"
 hash = "8fe09b83f2fe6bf9d547e99b8d883aef42bf3d9e2e6f5bd43ec3fcd4c7f756da"
 
 [[files]]
-file = "config/croptopia/croptopia_v3.conf"
-hash = "d0f5472f5b2f124a8d716dbb3c3e09c6ce14400cf528dd6ceb035e85cf5061c1"
-
-[[files]]
 file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
@@ -515,12 +511,44 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "d1995f75d730cc6936288841a1c2909fd8c1550514e5e7d3c7320ea47b307ebf"
 
 [[files]]
+file = "config/fancymenu/assets/wolfsbattalion.icns"
+hash = "1c5b9952fc88b32b7cce7086f7bf7608c7b72249a21a8c2dcf20a7e777be94d9"
+
+[[files]]
+file = "config/fancymenu/assets/wolfsbattalion.png"
+hash = "b6cf48568d3a782f60813b2cea8b1fdb9dc04058c426b2087f49d2dbe80520f0"
+
+[[files]]
+file = "config/fancymenu/assets/wolfsbattalion_16x16.png"
+hash = "71b91006583cf2f5dfd70b56eaf7aa37d0e6d45fd6ca81a88b35c5001a219b45"
+
+[[files]]
+file = "config/fancymenu/assets/wolfsbattalion_32x32.png"
+hash = "77dbbec87e316e198d886d4167deac58af078ccedf44deb8415b89c21f755f64"
+
+[[files]]
+file = "config/fancymenu/assets/wolfsbattalion_title.png"
+hash = "69e74be322208854465ae235841a60e67c5cac6c614457d97c38370d6a344131"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "a83e520716f7d5fa43025d5991acd6e2160fc43ba604bd4c258b9f5c0812830f"
+hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "e073170e9a6b0c373118ac2d52c30f9be8dbd7a66def34c3dc302d8f0ad4ec1f"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "a18dac70967f3861c70ce2f740d92611a1f3eac576ca880e1559b644d68df128"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -528,7 +556,39 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "650365ab2f46f06eacdf7be9e5b97fd8bd0ea117d5d7464f4978f16466ae402a"
+hash = "d112c34fa82afa61cc32d43ea49f71b2ce3e99635058b996787759199ea60575"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/overlay.png"
+hash = "03cab8fd91d924d3adaad62706661097c3d8d7bb6ac4f1a58930293c36db4deb"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_0.png"
+hash = "ad1e626935eaf9b6d69994422552005961f91aa0d31fe559ba5291e9ab2321f6"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_1.png"
+hash = "03cab8fd91d924d3adaad62706661097c3d8d7bb6ac4f1a58930293c36db4deb"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_2.png"
+hash = "668743bdbef6338dd879db7e8417c515e40575aa8efda86144246b3320e5c0cd"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_3.png"
+hash = "78d3fe4f75b9047ccec84eb3830b3d24c49c4d01bc8e66dd328845a7d364b160"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_4.png"
+hash = "8093cbcc5b07bc3fcf59a65737137432b49ff46a6efe91059ad3ec4c23ee5049"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_5.png"
+hash = "fedbb642ac0a559f1e978e622e2d9f3cf81e7ace2eb952de9a0d14701456e2e1"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/properties.txt"
+hash = "40887168b7abb66d882a4f6e0cd452651ab2054d111b77c3f60e2c8700e1eeab"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -1008,7 +1068,7 @@ hash = "7d2e7520c83ebbf94aa8822208ade8dd7bb6960a1ed0a333d3b77dbd6ba00c98"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "43b526a3bdea8a691eba920adc7e21ec66ed189ab6416c9e760d0ebaebc999c6"
+hash = "a4963b559b3b29ea0e6480a8f86c6645579f8e3fcd7c4f904aced7edf9f41bf7"
 
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
@@ -1100,7 +1160,7 @@ hash = "34e13f8e69197ea4007da43bb3f67a3a4b51246f293d6d1c04bfc358ac39f811"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
-hash = "3a530f6a4d14d6f49f1b29b817008a846e3095034ddc17623581d05b7dfde00d"
+hash = "02d6fcf712a2b4da78e30183c7a9ed2aaa0ef93f24df2548bcad107329812729"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1445,16 +1505,6 @@ hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
 
 [[files]]
-file = "mods/croptopia-additions.pw.toml"
-hash = "32af3bfd1bf1ce61db20dd46fcf43a9c410282e21bf53c3f4df7656e58b016c1"
-metafile = true
-
-[[files]]
-file = "mods/croptopia.pw.toml"
-hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
@@ -1565,11 +1615,6 @@ hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-croptopia-compat.pw.toml"
-hash = "56626e2a968c130d5abf3ac623cc82a14cf022fdc3ce65c8e7d0c9cdaad820d3"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
 hash = "f9efc3a8b92991d29b7117b9a0d9fd7a3f7d567d0139243f35c6257f56068b75"
 metafile = true
@@ -1660,6 +1705,11 @@ hash = "868ff7872bdc2cdda15a9395da5252328bb0be8f95698e459ea0354f6d24d679"
 metafile = true
 
 [[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "5e25b23f945691a14a0a2e8b54210163597ff2270d13d29804703a610c8f597c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "315dc632de6f067ccbda8a4ce4ef4e68945a4306333cfbadec1f7335c7a67c16"
 metafile = true
@@ -1715,6 +1765,11 @@ hash = "575584600a12bd017ab7287bfe35a234bb3e1dc10d186f90aceac7ec8b88dcf6"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
+metafile = true
+
+[[files]]
 file = "mods/industrial-revolution.pw.toml"
 hash = "adacdb4be2a9d80bc4854479961298015c595f65af74115198cb884c1fb4cddb"
 metafile = true
@@ -1722,6 +1777,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "f08bf2a517e4fbd48c2f4e8f0a801b992f38aa54f287f9a20d9d88b1e25f62b9"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "71a26ef25c317259238a5ec2e5929f68073ced1882145d1122815d33711d2ab2"
 metafile = true
 
 [[files]]
@@ -2112,6 +2172,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "a4fced29c81b31d9f0888b61b1c3c53409c9f35dcb0c6242f2e0aebd8e15ba98"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "607e46ceb8ff9140a7a928734a10fdce835d1b4fbb0d49226d83f39e60d42e44"
 metafile = true
 
 [[files]]
