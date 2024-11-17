@@ -1534,6 +1534,11 @@ hash = "97fb1c92523ea9e941c2274df96b8066de658a9fec8cfdc3ce3d04a1e68bd19e"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "8f3d5a8b2a39fe8ac2ce04a864a3c0a3346f7787177f5806674d90423c3a8193"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "d9bf0020f39ea4cea9c1350fdeefd5c651797ffaa01873ad91f6162fb0e210d4"
 metafile = true
