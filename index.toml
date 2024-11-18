@@ -1794,6 +1794,11 @@ hash = "f08bf2a517e4fbd48c2f4e8f0a801b992f38aa54f287f9a20d9d88b1e25f62b9"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "c79bc97a7a233978a7ecc0dedc6964f30116bc20b8cc6813adebbcef95e33e21"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "71a26ef25c317259238a5ec2e5929f68073ced1882145d1122815d33711d2ab2"
 metafile = true
@@ -2086,6 +2091,11 @@ metafile = true
 [[files]]
 file = "mods/portable-tables.pw.toml"
 hash = "efae243c5b4d5e6d783547d0940dda666abdd996515e5aa1ce827e8924f8da92"
+metafile = true
+
+[[files]]
+file = "mods/puffish-attributes.pw.toml"
+hash = "3463dacd48686feb695b99f86f9b041fbce0c9a603f303b08373c439048521ef"
 metafile = true
 
 [[files]]
