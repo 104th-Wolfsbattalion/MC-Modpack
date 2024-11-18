@@ -23,6 +23,26 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "14a4641e7f57e1619c5ac22542594fd1b9ea79feb1591e34aeef9a4ea19481c0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
 file = "config/Revelationary.json"
 hash = "195f6aff5ef15fc5a649f2f0382e6f1c95e5cf1e8a34df02e648b895b717d2d2"
 
@@ -92,7 +112,7 @@ hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "df5f741df02b0cf46e1a4297ab3d215c5bf24c27fcae29af02e6dcf3a8b7c0d2"
+hash = "b2930dd2185a2a4291ed076da185a47f34611b3a3ad948a402623bfb7e584918"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -599,6 +619,18 @@ file = "config/fancymenu/slideshows/slideshow1/images/image_1.png"
 hash = "42880319dd0b8b9e32f8351e155410c95f8b902100cb5cbcb1610de31460553d"
 
 [[files]]
+file = "config/fancymenu/slideshows/slideshow1/images/image_2.png"
+hash = "697c0f8ab9595fd688af43c0083384cce45e14fd8f390a8243166daeb524fa90"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow1/images/image_3.png"
+hash = "ef46dbdeead028df0108a69097e47e9fe0e66270a61cfd8c5101c4116eddf855"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow1/images/image_4.png"
+hash = "2a72e36b88b2dc07908e58d85bed260d2d103a2c6894d83086a09722a4d2b00b"
+
+[[files]]
 file = "config/fancymenu/slideshows/slideshow1/properties.txt"
 hash = "017d23bd0cca67ec6ccf125bfebeda6db54d7b493f65651cd58ce0f0dae5434a"
 
@@ -809,10 +841,6 @@ hash = "0ec99e2aebcefedcf1d5681b6d9cd83d5ed6af32cb8004db0d0699c47beb1164"
 [[files]]
 file = "config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
-
-[[files]]
-file = "config/numismatic-overhaul.json5"
-hash = "dedd3c136687743b1a8b6464f6eab1d598338937ae575da3a4da110126b5c217"
 
 [[files]]
 file = "config/observable.json"
@@ -2286,11 +2314,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
-metafile = true
-
-[[files]]
-file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "ac42a620ef736c399c3c9c67ac933201404fd9b9a0db3465f03988734d8bafb5"
 metafile = true
 
 [[files]]
