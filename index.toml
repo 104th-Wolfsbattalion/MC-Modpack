@@ -112,7 +112,7 @@ hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "b2930dd2185a2a4291ed076da185a47f34611b3a3ad948a402623bfb7e584918"
+hash = "eeafe2accccbfa88dabe1ce8f408f5eed5656c418e43f020256a19f1affac3bb"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -556,7 +556,11 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0a730e0597da9fa59ce466bd2a1e7a65d3c190e7ae2e7d3ce55fad6211819c"
+hash = "b3cf9b360787d578d771c406b36f6ba788f53639dd1e676ed9561dd5b995033b"
+
+[[files]]
+file = "config/fancymenu/customization/accessibility_onboarding_screen_layout.txt"
+hash = "1aae480875c80a94664a6374799db3407f2988cc66cc565078347ac7793141aa"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -565,6 +569,14 @@ hash = "e073170e9a6b0c373118ac2d52c30f9be8dbd7a66def34c3dc302d8f0ad4ec1f"
 [[files]]
 file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
 hash = "1fbcbf304a54444a7975e12b7932ea45aa4239bdd1ddc26da9e0c48764798217"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "a585b2a83dbd41325e9f22d144c25f8717001b401c03d0ca545520ca8f07a9f0"
+
+[[files]]
+file = "config/fancymenu/customization/safety_screen_layout.txt"
+hash = "ace3141cf425a48a0cc9012ee48faaabff1136780291360abb19df4552a07bd9"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -629,6 +641,18 @@ hash = "ef46dbdeead028df0108a69097e47e9fe0e66270a61cfd8c5101c4116eddf855"
 [[files]]
 file = "config/fancymenu/slideshows/slideshow1/images/image_4.png"
 hash = "2a72e36b88b2dc07908e58d85bed260d2d103a2c6894d83086a09722a4d2b00b"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow1/images/image_5.png"
+hash = "dfcfec70f5cae4d183ecf0e61715ca91eefeaa2a40e22d7a6c962e7f1b93b43a"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow1/images/image_6.png"
+hash = "ac22e85280a2dc852038c0e0db1f204e15312980105d6eeba6f2a9fe7dac80a0"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow1/images/image_7.png"
+hash = "8332afd9927efedc745c064163f16ca2680ea559c42c16d2590856be49aed9e4"
 
 [[files]]
 file = "config/fancymenu/slideshows/slideshow1/properties.txt"
@@ -1713,7 +1737,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "e969008beaf3b54b37657de2c0367af4cb0735704ad683f8288c4341297bbed3"
+hash = "e3a97ffbe5a5864a4a1ec877e8e94158f8470c661ee683a2f1274aa2076b44c5"
 metafile = true
 
 [[files]]
@@ -1978,7 +2002,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecells.pw.toml"
-hash = "9f625c2ae41c941952fd6461b0eefc9724946a1e2a97816df093b37ddb3bdabd"
+hash = "089296399579b7a8f00dc29cd3e862b4d06edd503e573d40ef15c72b7c95dc15"
 metafile = true
 
 [[files]]
@@ -2278,7 +2302,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
-hash = "6ae897993b56bfce5eaa683cb96af865eb630d5c1503d9b2ecf73a2448920356"
+hash = "123712c0e33a926735679b080ccdf30634197a5975dc513df97aa475f3f37576"
 metafile = true
 
 [[files]]
@@ -2298,7 +2322,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8b75cf3586aaa19f7a860ccc9659f47924c5675c3f43a7c5b8a7ddb06982ab28"
+hash = "11f48367bcd81a16d19f9f0f4c2de652a9bc5fc6176d97b3744eab2b18b243f6"
 metafile = true
 
 [[files]]
