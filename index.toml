@@ -112,7 +112,7 @@ hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f1a7f3019e1adfc9788abe03a3784ee7e61a4e0af3a50d0ac673f8265ee3ae75"
+hash = "5467734a428aa20deec673ec45cdc9aebc611c1d338d6e11b1139932ee255d18"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -325,10 +325,6 @@ hash = "34e9ccc5d052f8791f8feb8af97fe578c1c1435e7426accd87a75a687cfba544"
 [[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
-
-[[files]]
-file = "config/cccbridge.properties"
-hash = "749357b91e5b742137871df9b27a2b4fb935d2d69543a02bf22bac61f3967550"
 
 [[files]]
 file = "config/chat_heads.json5"
@@ -1401,21 +1397,6 @@ hash = "b11eb6375e438f1fbf4fe6245e5500a7e624c83ec06774b5afa99aee1e17ced8"
 metafile = true
 
 [[files]]
-file = "mods/calibrated.pw.toml"
-hash = "d4b95a7c533292451f3c8e415dea3a9157d0a94f59d61b56136f7e14e823bc61"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "add98aca0d451e23f27f529f0f83139dddf96e2979d1187817d928aff4f1828a"
-metafile = true
-
-[[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "5e96138dce35e95b6efd048968440332a42c8c6d3bafe384cc303c18f073da31"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d3e00b88fe5b6c9a4b6e3284463cba3a44b1d88035c8148858cfa3a2daceba09"
 metafile = true
@@ -2127,7 +2108,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-attributes.pw.toml"
-hash = "3463dacd48686feb695b99f86f9b041fbce0c9a603f303b08373c439048521ef"
+hash = "c526816776d2e5fbff1381e05db6cf4853d0bdc33d5ec51f2d33d0b7a1d813a3"
 metafile = true
 
 [[files]]
@@ -2137,7 +2118,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-skills.pw.toml"
-hash = "d70c5f46e84f7a4062d9b43fed6da335bad0307f52ce1de3ec14530474d6b699"
+hash = "2a28486e21df51ec18cc397984fbf44fa7a1ccede9ea1221643fe85d8f651ddc"
 metafile = true
 
 [[files]]
@@ -2302,7 +2283,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "11f48367bcd81a16d19f9f0f4c2de652a9bc5fc6176d97b3744eab2b18b243f6"
+hash = "3d1e2938617eafe268775a9eb59486babda4d76a84fa7fcd4d29fe9eaaf9151a"
 metafile = true
 
 [[files]]
@@ -2318,11 +2299,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
-metafile = true
-
-[[files]]
-file = "mods/toms-peripherals.pw.toml"
-hash = "0c746fcb31d40ead1f72cd9032616218dc81e77bd97d8387754553222b465849"
 metafile = true
 
 [[files]]
