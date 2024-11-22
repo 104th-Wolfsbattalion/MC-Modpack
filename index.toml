@@ -112,7 +112,7 @@ hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "eeafe2accccbfa88dabe1ce8f408f5eed5656c418e43f020256a19f1affac3bb"
+hash = "f1a7f3019e1adfc9788abe03a3784ee7e61a4e0af3a50d0ac673f8265ee3ae75"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -1111,26 +1111,6 @@ file = "config/vinery/config.json5"
 hash = "20c727c81c03303920bb1117c61727da1c71dfffc2c7d088796336c5a0793c05"
 
 [[files]]
-file = "config/voicechat/translations.properties"
-hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "1d48ee7d799bf3a6d50213e2f117367c25c80e7a81b957604af2c0b0342122bb"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "7d2e7520c83ebbf94aa8822208ade8dd7bb6960a1ed0a333d3b77dbd6ba00c98"
-
-[[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "a4963b559b3b29ea0e6480a8f86c6645579f8e3fcd7c4f904aced7edf9f41bf7"
-
-[[files]]
-file = "config/voicechat/voicechat-volumes.properties"
-hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
-
-[[files]]
 file = "config/wands.json"
 hash = "2edc42650c3b9015c29e08e6ac2ca75e6c94131ce1cc5a8a87b453d7ee98ba54"
 
@@ -1427,7 +1407,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "e6ebfe709c9c3a6a4978e4c2e87ebd72b23e5b45f3ddf864c70fd534cc5189c2"
+hash = "add98aca0d451e23f27f529f0f83139dddf96e2979d1187817d928aff4f1828a"
 metafile = true
 
 [[files]]
@@ -1747,7 +1727,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "273d66b2b9f4b0085a760f8e59cfa2fa8c06de7b21adf9a370f42f513fa81954"
+hash = "255944c0a16d4610450a7787adb4d7888b5beac78b6ac19cd24f550832f25a88"
 metafile = true
 
 [[files]]
@@ -2217,7 +2197,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "916ce8b1aed05a06e06a52ab6a752d3ec6d53edd264a1a3c70f1ba52deffde30"
+hash = "2f323a086ba7b8df406bbba74b14b43c903912cdae96a407bf3f4fd6b96ed2a6"
 metafile = true
 
 [[files]]
