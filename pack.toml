@@ -1,12 +1,12 @@
 name = "104th Wolfsbattalion MC"
 author = "Wolfsbattalion Team"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c061f24cd0e75ce35611db29b077b699794a9e4f4f3cc5a9be90cc90293f9d34"
+hash = "a553bbc7996891b823bee355fa04f284f50cb84712f4c79acba1a53a8a2604af"
 
 [versions]
 fabric = "0.16.9"

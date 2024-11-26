@@ -15,10 +15,6 @@ file = "config/CoroUtil/General.toml"
 hash = "ea7451d8bf8033ccae1c3d81e1ca0bcf3ae113777bbf1f9bcea38b1ca83b6651"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "f41719a89866df9eb31722cca60c608b9e343718751041c57655750748f2673c"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -112,7 +108,7 @@ hash = "33606d9f309e655d6494dab932a061efe1f1f917a286bfc74b07f1876096464f"
 
 [[files]]
 file = "config/bcc.json"
-hash = "5467734a428aa20deec673ec45cdc9aebc611c1d338d6e11b1139932ee255d18"
+hash = "2c15f884384013128a1760db997e948399502532c28080ad9808db1f323b4997"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -627,6 +623,10 @@ file = "config/fancymenu/slideshows/slideshow1/images/image_1.png"
 hash = "42880319dd0b8b9e32f8351e155410c95f8b902100cb5cbcb1610de31460553d"
 
 [[files]]
+file = "config/fancymenu/slideshows/slideshow1/images/image_10.png"
+hash = "7722e39aa42fa0bedeafddf5cd571183ae3a30c48e09a7c321b3e1b7ba2bd7bc"
+
+[[files]]
 file = "config/fancymenu/slideshows/slideshow1/images/image_2.png"
 hash = "697c0f8ab9595fd688af43c0083384cce45e14fd8f390a8243166daeb524fa90"
 
@@ -649,6 +649,14 @@ hash = "ac22e85280a2dc852038c0e0db1f204e15312980105d6eeba6f2a9fe7dac80a0"
 [[files]]
 file = "config/fancymenu/slideshows/slideshow1/images/image_7.png"
 hash = "8332afd9927efedc745c064163f16ca2680ea559c42c16d2590856be49aed9e4"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow1/images/image_8.png"
+hash = "07bf6376055a2f96fbb587d22f395763584b1aaeb05b84ce348761d472bae8a7"
+
+[[files]]
+file = "config/fancymenu/slideshows/slideshow1/images/image_9.png"
+hash = "52fadae47705401ec7ad0c3de1e7fd0a3824f1a049377686c95acd2df598358d"
 
 [[files]]
 file = "config/fancymenu/slideshows/slideshow1/properties.txt"
@@ -1328,7 +1336,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "783c2a8b6a2653243fe1af8e5b9fc7cc3ff54dd7de9310a4fb8ddc889b0f7efa"
+hash = "35df3a85a7df1003077e3b0263c402bb7b2bf0de508dec15d3dd35addbfda8f6"
 metafile = true
 
 [[files]]
@@ -1398,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d3e00b88fe5b6c9a4b6e3284463cba3a44b1d88035c8148858cfa3a2daceba09"
+hash = "ce38f6e88355a09b1cfa897248c2254af3a45eae261f85512962e489c4538cc1"
 metafile = true
 
 [[files]]
@@ -1688,7 +1696,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgotten-graves.pw.toml"
-hash = "1216673395245dacb84c4672051168122975be5598c6b316e5503aa2269fe243"
+hash = "ff50346d7513ccac4ce5a97acb3a988b02bec4e756ea9a55a511648eb6808528"
 metafile = true
 
 [[files]]
@@ -2013,7 +2021,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "fdeb8be61c534c8debef4553bc36dc1a5b8797e010a6e937f6bc4f1f3bee720b"
+hash = "893b24bdc4b80adf9b9450a27bf1448e2fb7ce95a6df3e7ae4315c891d8f172c"
 metafile = true
 
 [[files]]
@@ -2108,7 +2116,7 @@ metafile = true
 
 [[files]]
 file = "mods/puffish-attributes.pw.toml"
-hash = "c526816776d2e5fbff1381e05db6cf4853d0bdc33d5ec51f2d33d0b7a1d813a3"
+hash = "a4ef5ca66f56954dd34d597bd697298eec828fa7e7728d5b6ae3541174590f82"
 metafile = true
 
 [[files]]
@@ -2178,12 +2186,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "2f323a086ba7b8df406bbba74b14b43c903912cdae96a407bf3f4fd6b96ed2a6"
+hash = "70df51d4e74731fcc109bd6ae18c9dbb26ed387e5d3f1657115dcc4f8fbd7c71"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "b72f475de698e990b861aff8ad759913b6f063550e6d94cebf0cdd0bf4e0bdbb"
+hash = "62d685e001957b2f677675df77e3d96be4ba9ce28cd19b286dc7b386a5b472b0"
 metafile = true
 
 [[files]]
